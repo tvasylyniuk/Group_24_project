@@ -10,6 +10,4 @@ public class Practice {
     // Let`s do it again
     // test3
 
-
-
 }
